@@ -1,5 +1,5 @@
 # Frontend_College_Book_Store
-"Frontend part of the Full Stack platform for college students: buy/sell books, stationery, etc. Connects seniors selling with juniors buying. Features Java SpringBoot, React, REST APIs, MySQL DB, secured with JWT &amp; Spring Security."It serves as a connection point between seniors looking to sell their items and juniors seeking to purchase them.
+"Frontend part of the Full Stack platform for college students: buy/sell books, stationery, etc. Connects seniors selling with juniors buying by allowing both parties to chat with each other seemlessly. Features Java SpringBoot, React, REST APIs, MySQL DB, secured with JWT &amp; Spring Security."It serves as a connection point between seniors looking to sell their items and juniors seeking to purchase them.
 This website creates a convenient marketplace where students can easily find the study materials and supplies
 
 <img width="1440" alt="image" src="https://github.com/NicoleFalcao11/Frontend_College_Book_Store/assets/113350362/e4ca337c-b99a-453b-b02d-ba461371e4da">
