@@ -9,8 +9,8 @@ This website creates a convenient marketplace where students can easily find the
 <img width="1440" alt="image" src="https://github.com/NicoleFalcao11/Frontend_College_Book_Store/assets/113350362/75ce661d-1567-4a3a-b836-09adfcb06d7b">
 <img width="1440" alt="image" src="https://github.com/NicoleFalcao11/Frontend_College_Book_Store/assets/113350362/704753b3-23af-4286-ae2f-07850465afc1">
 <img width="1440" alt="image" src="https://github.com/NicoleFalcao11/Frontend_College_Book_Store/assets/113350362/daf742f2-602f-40aa-9144-3e85030dedaf">
-
-
+<img width="1425" alt="Screenshot 2024-10-30 at 9 56 21 AM" src="https://github.com/user-attachments/assets/5ae78df3-4b08-4690-be4d-d8cdf77612e2">
+<img width="1426" alt="image" src="https://github.com/user-attachments/assets/c7b2f905-015d-493f-8f85-ce2b40b3db3e">
 
 
 
